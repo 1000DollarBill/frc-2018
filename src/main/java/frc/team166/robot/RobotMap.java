@@ -25,6 +25,10 @@ public class RobotMap {
 		public final static int DriveJoystickPort = 0;
 		public final static int DriveJoystickPort2 = 1;
 	}
+
+	public static class AnalogInputs {
+		public final static int GyroTempest = 1;
+	}
 	// For example to map the left and right motors, you could define the
 	// following variables to use with your drivetrain subsystem.
 	// public static int leftMotor = 1;
